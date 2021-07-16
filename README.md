@@ -43,10 +43,13 @@ Module 7
 (1) Make repository changes.
 
 (2) Change the hyper link of the “Open in Colab” button. Open a notebook (https://github.com/Yuanyuan-T/ASU-GIS-322-Summer-2021/blob/master/notebooks/5_3_Geocoding.ipynb), in “change” mode, find the below code block, change the domain from 'github.com' to 'githubtocolab.com' (ref: https://stackoverflow.com/questions/62596466/how-can-i-run-notebooks-of-a-github-project-in-google-colab). 
-
+```
+{
 "source": [
         "<a href=\"https://github.com/Yuanyuan-T/ASU-GIS-322-Summer-21/blob/master/notebooks/5_3_Geocoding.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
+}
+```
 
 
 (3) Get the rendered page:
